@@ -16,5 +16,3 @@
     <footer>
       <p>2026© Atzen</p>
     </footer>
-  </body>
-</html>
